@@ -1,0 +1,30 @@
+#design{
+    position: absolute;
+    bottom:10px;
+    left: 0px;
+    width: 300px;
+    height: 245px;
+    z-index: 1;
+}
+#vec1{
+    position: absolute;
+    top:10px;
+    left: -30px;
+    z-index: 0;
+}
+
+#expertise{
+    position: absolute;
+    bottom:10px;
+    right: 0px;
+    width: 300px;
+    height: 245px;
+    z-index: 1;
+}
+
+#vec2{
+    position: absolute;
+    top:100px;
+    right: -30px;
+    z-index: 0;
+}
