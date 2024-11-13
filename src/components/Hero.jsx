@@ -17,9 +17,11 @@ const Hero = () => {
             UI/UX Web Designer and <br />
             Full Stack Developer
           </h2>
-          <button className="mt-4 bg-fontWhite text-divColor px-4 py-2 rounded">
+          <a href="/cv.pdf">
+          <button className="mt-4 bg-fontWhite text-divColor px-4 py-2 rounded" Download>
             Download CV
           </button>
+          </a>
         </div>
         <img src={design}  id="design" />
         <img src={vec1}  id="vec1" />
